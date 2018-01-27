@@ -7,7 +7,9 @@ BoardLint 멀티탭 사이의 게이트웨이로 전원 ON/OFF 를 음성으로 
 필요라이브러리
 
 https://github.com/DavyLandman/AESLib
+
 https://github.com/ekstrand/ESP8266wifi
+
 https://github.com/sayzard/BroadLinkESP
 
 
